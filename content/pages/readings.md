@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about required texts and list of readings
+  by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -273,7 +275,7 @@ Block: Consciousness
 
 ### Required readings
 
-Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/puzzle.pdf))
+Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. ([PDF - 1.0 MB](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/puzzle.pdf))
 
 ### Recommended readings
 
